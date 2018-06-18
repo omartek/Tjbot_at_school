@@ -39,7 +39,7 @@ http://www.instructables.com/id/Otto-Build-You-Own-Robot-in-Two-Hours/
 https://www.thingiverse.com/thing:1568652/
 
 
-![Zowi Robot](./images/zowi.jpg)
+![Zowi Robot](./images/zowi.png)
 
 
 https://github.com/bqlabs/zowi

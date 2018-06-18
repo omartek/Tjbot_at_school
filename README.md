@@ -7,7 +7,7 @@ Buona lettura.
 ALTRI ROBOT:
 
 
-![Coderbot](./images/eduino.jpg)
+![Coderbot](./images/coderbot.jpg)
 http://www.coderbot.org/it/how_to_build_it.html
 
 ![Eduino](./images/eduino.jpg)

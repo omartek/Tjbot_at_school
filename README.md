@@ -4,7 +4,7 @@ Leggi la [WIKI](https://github.com/omartek/Tjbot_at_school/wiki) per dettagli e 
 
 Buona lettura.
 
-ALTRI ROBOT:
+ALTRI DIY ROBOT:
 
 
 ![Coderbot](./images/coderbot.jpg)

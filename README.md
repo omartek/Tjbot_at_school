@@ -26,6 +26,8 @@ https://www.thingiverse.com/thing:2791074
 
 https://www.thingiverse.com/thing:1441937
 
+https://github.com/OttoDIY
+
 http://www.maffucci.it/2016/05/06/dotbot-avanzamento-lavori-e-sviluppi-futuri/
 
 
